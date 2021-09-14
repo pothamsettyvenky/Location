@@ -1,0 +1,5 @@
+pip install tweepy 
+pip install textblob
+pip install pandas
+pip install geopy
+pip install django-pandas
